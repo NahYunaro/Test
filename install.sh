@@ -2,10 +2,10 @@
 
 # -----------------------------------------------------------------------------
 # Info:
-#  author:    N-Cen-Dainamix
+#  author:    N-Com Yunaro
 #  file:      install.sh
-#  created:   16/10/2019
-#  version:   1.3.0 [for Termux Android]
+#  created:   22/10/2019
+#  version:   1.3.2 [for Termux Android]
 # -----------------------------------------------------------------------------
 # Requirements:
 #  Perl, Python, cURL, ffmpeg, youtube-dl
