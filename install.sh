@@ -4,7 +4,7 @@
 # Info:
 #  author:    N-Com Yunaro
 #  file:      install.sh
-#  created:   22/10/2019
+#  created:   27/06/2022
 #  version:   1.3.2 [for Termux Android]
 # -----------------------------------------------------------------------------
 # Requirements:
