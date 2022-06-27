@@ -2,10 +2,10 @@
 
 # -----------------------------------------------------------------------------
 # Info:
-#  author:    N-Cen-Dainamix
+#  author:    N-Com Yunaro
 #  file:      yt-downloader.pl
-#  created:   16/10/2019
-#  version:   1.3.0 [for Termux Android]
+#  created:   27/06/2022
+#  version:   1.3.2 [for Termux Android]
 # -----------------------------------------------------------------------------
 # Requirements:
 #  Perl, Python, cURL, ffmpeg, youtube-dl
@@ -189,10 +189,10 @@ exit;
 sub _banner{
 print q{+-------------------------------------------+
 | Youtube Automatic Converter Downloader    |
-| Version: 1.3.0 [for Termux Android]       |
-| Update: 16/10/2019                        |
-| Credit by: N-Cen-Dainamix                 |
-| Contact: http://facebook.com/ncendainamix |
+| Version: 1.3.2 [for Termux Android]       |
+| Update: 27/06/2022                        |
+| Credit by: N-Cen-Dainamix-Team            |
+| Edit by: N-Com Yunaro [for Pouna]         |
 +-------------------------------------------+
 (C) 2014 - 2019 by: Dainamix-Team
 };
